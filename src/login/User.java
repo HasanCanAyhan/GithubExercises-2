@@ -7,4 +7,6 @@ public class User {
 
     // user updated
 
+    // user class completed
+
 }
